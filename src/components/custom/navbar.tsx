@@ -28,7 +28,7 @@ export default function NavBar() {
           About
         </NavigationMenuLink>
       </Link>
-      <Link href="/docs" legacyBehavior passHref>
+      <Link href="/Bootcamp" legacyBehavior passHref>
         <NavigationMenuLink className={navigationMenuTriggerStyle()}>
           Bootcamps
         </NavigationMenuLink>
